@@ -1,0 +1,1 @@
+pat_wmd_moderate.txt		CM	text="moderate white matter changes"	start="0"	end="30"	certainty="Positive"	status="Present"	experiencer="Patient"	norm="WMD_WHITE"	semG="null"	section="DocBegin"	sentid="DocBegin:1"	sentence="Moderate white matter changes are seen."

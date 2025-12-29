@@ -1,0 +1,6 @@
+pat_001.txt.ann||||WMD_FOUND|MILD
+pat_sbi_lacunar.ann|SBI_FOUND|lacunar_subcortical|||
+pat_sbi_cortical.ann|SBI_FOUND|cortical_juxtacortical|||
+pat_sbi_both.ann|SBI_FOUND|both|||
+pat_wmd_moderate.ann||||WMD_FOUND|MODERATE
+pat_negative.ann|||||

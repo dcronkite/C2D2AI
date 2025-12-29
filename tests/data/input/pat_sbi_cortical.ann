@@ -1,0 +1,1 @@
+pat_sbi_cortical.txt		CM	text="cortical infarct"	start="0"	end="16"	certainty="Positive"	status="Present"	experiencer="Patient"	norm="ACUTE"	semG="null"	section="DocBegin"	sentid="DocBegin:1"	sentence="A cortical infarct is seen."

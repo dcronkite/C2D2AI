@@ -1,0 +1,2 @@
+pat_negative.txt		CM	text="no infarct"	start="0"	end="10"	certainty="Negated"	status="Present"	experiencer="Patient"	norm="ACUTE"	semG="null"	section="DocBegin"	sentid="DocBegin:1"	sentence="No infarct is seen."
+pat_negative.txt		CM	text="no white matter changes"	start="20"	end="40"	certainty="Negated"	status="Present"	experiencer="Patient"	norm="WMD_WHITE"	semG="null"	section="DocBegin"	sentid="DocBegin:1"	sentence="No white matter changes are seen."
