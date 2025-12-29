@@ -20,7 +20,7 @@ def rad_parser(line):
     line = line.replace('}', '')
     # line = line.replace('', '')
     line = line[121:]
-    line = line.split('\par')
+    line = line.split(r'\par')
     line_str = ''
     for m in line:
         line_str += m + '\n' 
